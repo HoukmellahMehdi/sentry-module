@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@sentry/core": "^7.63.0",
-    "@sentry/integrations": "^7.63.0",
+    "@sentry/integrations": "git+https://github.com/HoukmellahMehdi/sentry-javascript.git#7.74.1-patch",
     "@sentry/node": "^7.63.0",
     "@sentry/utils": "^7.63.0",
     "@sentry/vue": "^7.63.0",
